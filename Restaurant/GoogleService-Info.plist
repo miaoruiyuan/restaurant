@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>417909440758-edtp8i0rfo8li863vud9se5lm7av1bsv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.417909440758-edtp8i0rfo8li863vud9se5lm7av1bsv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGsTRBemTZGuX6udMY6a9u9fzsb8-u7Tw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>417909440758</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cn.homework.Restaurant</string>
+	<key>PROJECT_ID</key>
+	<string>restaurant-8a37e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>restaurant-8a37e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:417909440758:ios:0400380179f78980f3ecd7</string>
+</dict>
+</plist>
